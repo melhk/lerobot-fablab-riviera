@@ -5,6 +5,7 @@
 - Distribution: Pop!_OS
 - Graphics card: GTX 1080 Ti (11 GB VRAM)
 - Robotic arm: SO-ARM101 open source kit, designed by TheRobotStudio and integrated into Hugging Face's LeRobot ecosystem
+   - https://huggingface.co/docs/lerobot/main/en/so101
 - Camera: CMOS IMX291 sensor (USB, UVC protocol, no driver needed)
 
 ## LeRobot
@@ -15,7 +16,7 @@ https://huggingface.co/docs/lerobot/index
 - Built on PyTorch
 - A set of pretrained models
 - lerobot: open source library
-    - LeRobotDataset: standardized dataset format
+a    - LeRobotDataset: standardized dataset format
 
 ## Installing the lerobot library
 
@@ -45,3 +46,7 @@ If you run into build errors, you may need additional system dependencies (cmake
 https://huggingface.co/docs/lerobot/il_robots
 
 ### Record a dataset
+
+Find your camera `lerobot-find-cameras opencv # or realsense for Intel Realsense cameras`
+
+
