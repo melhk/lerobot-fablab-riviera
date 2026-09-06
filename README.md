@@ -1,5 +1,7 @@
 # LeRobot Fablab Riviera
 
+About robot learning: https://huggingface.co/spaces/lerobot/robot-learning-tutorial
+
 ## Hardware
 
 - Distribution: Pop!_OS
@@ -20,7 +22,7 @@ a    - LeRobotDataset: standardized dataset format
 
 ## Installing the lerobot library
 
-Tutorial available here: https://huggingface.co/spaces/lerobot/robot-learning-tutorial
+Full tutorial available here: https://huggingface.co/docs/lerobot/main/en/installation
 
 1. Create a conda environment with the required Python version
    `conda create -y -n lerobot python=3.12`
