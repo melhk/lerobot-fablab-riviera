@@ -43,6 +43,8 @@ Full tutorial available here: https://huggingface.co/docs/lerobot/main/en/instal
 If you run into build errors, you may need additional system dependencies (cmake, build-essential, ffmpeg libraries). On Linux:
 `sudo apt-get install cmake build-essential python3-dev pkg-config libavformat-dev libavcodec-dev libavdevice-dev libavutil-dev libswscale-dev libswresample-dev libavfilter-dev`
 
+https://huggingface.co/docs/lerobot/main/en/so101
+
 ## Imitation learning
 
 https://huggingface.co/docs/lerobot/il_robots
